@@ -1,2 +1,2 @@
 # Beyaz-Esya-Satis-Sitesi
-JSF ile Site Projesi
+Bu projede Java Server Faces çatısını kullanarak bir Beyaz Eşya Satış Sitesi Projesi oluşturmayı amaçlıyorum.
